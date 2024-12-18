@@ -7,7 +7,7 @@
   "author": "Art.sy Inc <it@artsymail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@artsy/palette": "^12.0.0 || ^13.0.0",
+    "@artsy/palette": "^12.0.0 || ^13.0.0 || ^40.0.0",
     "@sentry/browser": "^4.2.3",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
@@ -48,7 +48,7 @@
   "devDependencies": {
     "@artsy/auto-config": "1.2.0",
     "@artsy/lint-changed": "5.3.0",
-    "@artsy/palette": "13.28.0",
+    "@artsy/palette": "40.2.0",
     "@babel/cli": "7.0.0",
     "@babel/core": "7.7.2",
     "@babel/plugin-proposal-class-properties": "7.3.4",
